@@ -21,7 +21,7 @@ readme.md
                         logs exception at Warn level
                     Catch Exception
                         logs exception at Warn level
-    Uses DayOfWeek.Now to get current day of week
+    Uses Now.DayOfWeek.ToString to get current day of week
         assigns meeting name to string variable based on the day of the week
     Invokes ZoomMeetings Process
         passes meeting name in argument
